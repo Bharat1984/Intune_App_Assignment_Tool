@@ -4,6 +4,8 @@
 
 This PowerShell-based GUI tool allows administrators to **assign or remove Azure AD groups** as *inclusions* or *exclusions* to **Intune-deployed apps**. It leverages the Microsoft Graph API to automate and streamline app assignment management, and supports both selective and bulk operations.
 
+<img width="755" height="760" alt="image" src="https://github.com/user-attachments/assets/5fb3b0cc-634f-44cc-be04-c4f1f3e824b7" />
+
 ---
 
 ## ✨ Features
