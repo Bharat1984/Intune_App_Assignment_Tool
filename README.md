@@ -139,4 +139,3 @@ Exports assignment data of specific apps to CSV.
 
 This tool was designed for use by **Intune administrators** managing large-scale app assignments across environments.
 
-For updates or contributions, package the GUI as `.ps1`, or compile with `ps2exe` to a standalone `.exe`.
